@@ -1,8 +1,7 @@
 # image-generate-lightweight-CNN-_image-dehazing
 
-open source item:
 
-paper:https://itiis.org/digital-library/25146
+https://itiis.org/digital-library/25146
 
 @article{Wang2021LightweightMS,
   title={Lightweight multiple scale-patch dehazing network for real-world hazy image},
